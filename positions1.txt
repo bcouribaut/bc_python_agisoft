@@ -1,0 +1,4 @@
+#Label	X/Longitude	Y/Latitude	Z/Altitude	Yaw	Pitch	Roll	Error_(m)	X_error	Y_error	Z_error	Error_(deg)	Yaw_error	Pitch_error	Roll_error	X_est	Y_est	Z_est	Yaw_est	Pitch_est	Roll_est
+IMG_1777.JPG,172.575336,-43.521480,24.130000																	
+IMG_1778.JPG,172.575337,-43.521424,23.790000																	
+IMG_1776.JPG,172.575332,-43.521324,23.630000					
